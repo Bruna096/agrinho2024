@@ -8,8 +8,8 @@
 }
 
 .cabecalho {
-    color: white;
-    background-color: #255547;
+    color: rgb(255, 255, 255);
+    background-color: #014b17;
     display: flex;
     justify-content: space-between;
     align-items: center;
